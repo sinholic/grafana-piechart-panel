@@ -2,12 +2,12 @@
   "name": "piechart-panel",
   "private": true,
   "version": "1.3.6",
-  "description": "Pie chart panel for Grafana",
+  "description": "Pie chart panel for Grafana with Customization",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grafana/piechart-panel.git"
+    "url": "git+https://github.com/sinholic/grafana-piechart-panel"
   },
-  "author": "Grafana Labs",
+  "author": "Mahar Prasetio",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.2.2",
